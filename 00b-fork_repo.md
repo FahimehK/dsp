@@ -64,4 +64,4 @@ Here's your first chance to practice th### Q1. Emoji
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> :watermelon: :smiley:
+>> :watermelon: :smiley::smiley:
