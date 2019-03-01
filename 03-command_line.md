@@ -35,7 +35,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
->'ls' displays all list all of the files in the directory. 
+>'ls' displays all list all of the files in the directory<br/>
 >'ls -a' displays all files. 
 >'ls -l' displays a long format listing. 
 >'ls -lh' displays 
