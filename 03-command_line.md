@@ -36,8 +36,8 @@ What do the following commands do:
 `ls -Glp`  
 
 >'ls' displays all list all of the files in the directory<br/>
->'ls -a' displays all files. 
->'ls -l' displays a long format listing. 
+>'ls -a' displays all files<br/> 
+>'ls -l' displays a long format listing<br/>
 >'ls -lh' displays 
 
 
